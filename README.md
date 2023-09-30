@@ -74,21 +74,3 @@ mode offers all the same functionalities and capabilities of a registered user b
 saved memory. This essentially means users inputting specs about their laptops won’t be
 saved if they refresh the page or come back to the site later. Similarly, they would not be
 able to favorite games of interest.
-## CRUD Operations
-● Create:
-○ Allow users to add and save their preferences for games.
-○ Allow users to create accounts
-○ Allow for admin to add new games to the website
-● Read:
-○ Users can browse the dataset for games of interest to them
-■ This can be done using your favorite genre, release date, reviews, etc.
-○ Users can look at reviews about each game, and allowing them to preference
-higher rated games to less
-○ Allow users to search through games on Steam
-● Update:
-○ Allow users to change information about their profile
-○ Users can contact us with issues/ feedback
-○ Admin can change system requirements for games to match computer specs
-● Delete:
-○ Users can delete their account
-○ Admin can delete games that are no longer available on Steam
